@@ -1,80 +1,37 @@
 <!doctype html>
-<html lang="en" prefix="og: http://ogp.me/ns#">
+<html lang="ru" prefix="og: http://ogp.me/ns#">
 <head>
 
-    <?php if($_SERVER['HTTP_HOST'] == 'pro-advocate.pp.ua'){ ?>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113384561-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113384561-1');
-        </script>
-
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113449708-1"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113449708-1');
-        </script>
-    <?php } ?>
-
-    <?php if($_SERVER['HTTP_HOST'] == 'advocate-of-ukraine.pp.ua'){ ?>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113384561-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113384561-2');
-        </script>
-
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113449708-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113449708-2');
-        </script>
-    <?php } ?>
-
-    <?php if($_SERVER['HTTP_HOST'] == 'attorney-at-law-of-ukraine.pp.ua'){ ?>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113384561-3"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113384561-3');
-        </script>
-
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113449708-3"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-113449708-3');
-        </script>
+    <?php if($_SERVER['HTTP_HOST'] == 'ukraine-advocate.pp.ua'){ ?>
+        
     <?php } ?>
 
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Barrister, attorney, lawyer, advocate of Ukraine</title>
-    <meta name="description" content="Barrister Rostislav Malimonenko, the member of Ukrainian National BAR Association will help to resolve any legal issues in Ukraine including representation in criminal cases, recovering a debt, divorce, determination of the child's place of residence through the court in Ukraine, division of spouses' property in Ukraine , representation and protection in Ukraine in all disputable cases on the territory of Ukraine"/>
-    <meta name="keywords" content="barrister attorney lawyer advocate Ukraine Rostislav Malimonenko help disputable territory divorce debt recovering criminal" />
+    <title>АДВОКАТ, ЧЛЕН НАЦИОНАЛЬНОЙ АССОЦИАЦИИ АДВОКАТОВ УКРАИНЫ</title>
+    <meta name="description" content="
+•Услуги адвоката на досудебном следствии и в суде по всем уголовным делам. Услуги адвоката по хозяйственным и гражданским делам;
+•Услуги корпоративного адвоката;
+•Защита и представительство прав и интересов граждан, физических и юридических лиц в судах и правоохранительных органах по любым спорам имущественного и не имущественного характера;
+•Представительство и защита прав и интересов в любых брачно-семейных делах, установление режима отдельного проживания супругов, расторжение брака, раздел имущества супругов при расторжении брака, определение места проживания ребенка, взыскание алиментов на содержание ребенка или родителей;
+•Всесторонняя защита прав собственности в судах Украины и других государственных органах и учреждениях;
+•Обеспечение исполнения долговых обязательств, взыскание всех видов долгов, взыскание материального и морального ущерба;
+•Защита чести, достоинства и деловой репутации;
+•Защита и представительство прав и интересов иностранных граждан в судах Украины;
+•Работа с государственной исполнительной службой по вопросам реального исполнения решения суда в пользу клиента;
+•Эффективная и рациональная организация деятельности на предприятии: службы безопасности, юридической службы, кадровой службы и т.п.;
+•Защита корпоративных, трудовых, жилищных, авторских и других имущественных и не имущественных прав;
+•Обеспечение юридической безопасности физических и юридических лиц;
+•Юридический консалтинг корпоративных прав;
+•Оптимизация хозяйственной деятельности проведением юридического аудита;
+•Выявление юридических уязвимостей в хозяйственной деятельности и определение путей их устранения;
+•Юридическое сопровождение клиента по всем видам сделок на всей территории Украины;
+•Судебные процессы. Мы представляем интересы своих клиентов во всех судах Украины, во всех инстанциях;
+•А также решение других юридических вопросов.
+"/>
+    <meta name="keywords" content="адвокат досудебном следствии украина сумы суд защита прав юридического безопасности государственных репутации уголовным брака имущества раздел уязвимостей репутации органах" />
     <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="icon.ico" type="image/x-icon">
     <script src="jquery-3.3.1.min.js"></script>
@@ -111,7 +68,7 @@ line-height: 1.2em;
     /*font: normal normal bold 60px/1.4em 'open sans', sans-serif;*/
     color: #FFFFFF;
     padding: 30px 0 0 0;
-">Rostislav Malimonenko</h1></div>
+">Ростислав Малимоненко</h1></div>
         <div style="
 word-wrap: break-word;
 
@@ -120,11 +77,11 @@ text-align: center;
 margin: 0;
     line-height: normal;
     letter-spacing: normal;
-    font: normal normal normal 25px/1.4em avenir-lt-w01_35-light1475496, sans-serif;
+    font: normal normal normal 25px/1.1em avenir-lt-w01_35-light1475496, sans-serif;
     font-family: open sans,sans-serif;
     color: #94A3BA;
     letter-spacing: 0.3em;
-">Barrister, attorney, lawyer, advocate of Ukraine</h5></div>
+">АДВОКАТ, ЧЛЕН НАЦИОНАЛЬНОЙ АССОЦИАЦИИ АДВОКАТОВ УКРАИНЫ</h5></div>
     </div>
 </div>
 
@@ -151,22 +108,30 @@ font-size: 28px;
     text-align: center;
     font-size: 35px;
     margin: 0 0 10px 0;
-">Barrister, attorney, lawyer, advocate of Ukraine</h1></div>
+">ПРАВОЗАЩИТНАЯ ДЕЯТЕЛЬНОСТЬ<br>ВСЕ ВИДЫ ЮРИДИЧЕСКИХ УСЛУГ</h1></div>
         <div style="
         font-size: 28px;
-    text-align: center;
-">Barrister Rostislav Malimonenko, the member of Ukrainian National BAR Association will help to resolve any legal issues in Ukraine including representation in criminal cases, recovering a debt, divorce, determination of the child's place of residence through the court in Ukraine, division of spouses' property in Ukraine , representation and protection in Ukraine in all disputable cases on the territory of Ukraine. <a href="mailto:malimonenko@ukr.net" target="_blank" rel="noreferrer noopener">malimonenko@ukr.net</a> <a href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a> <a href="tel:+380993090829" value="+380993090829" target="_blank">+380993090829</a></div>
-    </div>
-</div>
-
-<div style="
-background: rgba(0, 0, 0, 0.5);
-padding: 10px 0;
+    text-align: left;
 ">
-    <div style="margin: 0 0 0 5%;width: 90%;">
-        <div class="q1">I live and work as a barrister in Ukraine. I have a lot of experience in all criminal cases, labour cases, civil cases, matrimonial cases, corporate cases, administrative proceedings, as well as other cases solution of which is required by the client.</div>
-        <div class="q2">I have a lot of practical experience in appealing against illegal actions of police officers, prosecutors, and other officials.</div>
-        <div class="q3">I always glad to help in solving your problems in Ukraine and protecting your rights and interests.</div>
+            <li>Услуги адвоката на досудебном следствии и в суде по всем уголовным делам. Услуги адвоката по хозяйственным и гражданским делам;</li>
+            <li>Услуги корпоративного адвоката;</li>
+            <li>Защита и представительство прав и интересов граждан, физических и юридических лиц в судах и правоохранительных органах по любым спорам имущественного и не имущественного характера;</li>
+            <li>Представительство и защита прав и интересов в любых брачно-семейных делах, установление режима отдельного проживания супругов, расторжение брака, раздел имущества супругов при расторжении брака, определение места проживания ребенка, взыскание алиментов на содержание ребенка или родителей;</li>
+            <li>Всесторонняя защита прав собственности в судах Украины и других государственных органах и учреждениях;</li>
+            <li>Обеспечение исполнения долговых обязательств, взыскание всех видов долгов, взыскание материального и морального ущерба;</li>
+            <li>Защита чести, достоинства и деловой репутации;</li>
+            <li>Защита и представительство прав и интересов иностранных граждан в судах Украины;</li>
+            <li>Работа с государственной исполнительной службой по вопросам реального исполнения решения суда в пользу клиента;</li>
+            <li>Эффективная и рациональная организация деятельности на предприятии: службы безопасности, юридической службы, кадровой службы и т.п.;</li>
+            <li>Защита корпоративных, трудовых, жилищных, авторских и других имущественных и не имущественных прав;</li>
+            <li>Обеспечение юридической безопасности физических и юридических лиц;</li>
+            <li>Юридический консалтинг корпоративных прав;</li>
+            <li>Оптимизация хозяйственной деятельности проведением юридического аудита;</li>
+            <li>Выявление юридических уязвимостей в хозяйственной деятельности и определение путей их устранения;</li>
+            <li>Юридическое сопровождение клиента по всем видам сделок на всей территории Украины;</li>
+            <li>Судебные процессы. Мы представляем интересы своих клиентов во всех судах Украины, во всех инстанциях;</li>
+            <li>А также решение других юридических вопросов.</li>
+            </div>
     </div>
 </div>
 
@@ -191,7 +156,7 @@ width: max-content;
     font: normal normal bold 38px/1.4em 'open sans', sans-serif;
     color: #FFFFFF;
     letter-spacing: 0.1em;
-            ">CONTACTS</div>
+            ">КОНТАКТЫ</div>
             <div style="width: 52px; height: 7px;border-bottom: 7px solid rgba(223, 49, 67, 1);height: 0 !important;min-height: 0 !important;margin: 0 0 15px 0;"></div>
             <div>
                 <div>
@@ -205,7 +170,7 @@ width: max-content;
     font-family: open sans,sans-serif;
     font-weight: bold;
     color: #FFFFFF;
-                    ">Telephone: </div>
+                    ">Телефон: </div>
                     <div style="
                     display: inline-block;
                         line-height: 2em;
@@ -220,11 +185,7 @@ width: max-content;
 color: #FFFFFF;
     cursor: pointer;
     text-decoration: none;
-" href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a>, <a style="
-color: #FFFFFF;
-    cursor: pointer;
-    text-decoration: none;
-" href="tel:+380993090829" target="_blank" value="+380993090829">+380993090829</a></div>
+" href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a></div>
                 </div>
                 <div>
                     <div style="
@@ -271,19 +232,19 @@ text-align: -webkit-center;
     margin: 12px 0 0 0;
 ">
 
-            <div style="letter-spacing:0.1em;color: #070A0E;word-wrap: break-word;font: normal normal bold 38px/1.4em 'open sans', sans-serif;color: #070A0E;">WRITE ME</div>
+            <div style="letter-spacing:0.1em;color: #070A0E;word-wrap: break-word;font: normal normal bold 38px/1.4em 'open sans', sans-serif;color: #070A0E;">НАПИШИТЕ МНЕ</div>
             <div style="width: 52px; height: 7px;border-bottom: 7px solid rgba(223, 49, 67, 1);height: 0 !important;min-height: 0 !important;margin: 0 0 15px 0;"></div>
             <div>
 
                 <div class="cf1" data-state="   field4Hidden field5Hidden  desktop left" id="comp-it43dhlq" data-dcf-columns="3">
                     <form role="form" aria-label="contact form" novalidate="" id="comp-it43dhlqform-wrapper" class="cf1form-wrapper">
                         <div id="comp-it43dhlqwrapper" class="cf1wrapper">
-                            <div class="cf1_first-row-wrapper"><input type="text" id="field1" required="" aria-invalid="false" name="Имя" value="" class="cf1_required" placeholder="Name" data-aid="nameField"><input type="text" id="field2" required="" aria-invalid="false" name="Email" value="" class="cf1_required" placeholder="Email" data-aid="emailField">
+                            <div class="cf1_first-row-wrapper"><input type="text" id="field1" required="" aria-invalid="false" name="Имя" value="" class="cf1_required" placeholder="Имя" data-aid="nameField"><input type="text" id="field2" required="" aria-invalid="false" name="Email" value="" class="cf1_required" placeholder="Email" data-aid="emailField">
                             </div>
-                            <div><input type="text" id="field3" aria-invalid="false" name="Тема" value="" class="" placeholder="Theme" data-aid="subjectField"><input type="tel" id="field4" aria-invalid="false" name="Телефон" value="" class="cf1_hidden cf1_hiddenField" placeholder="Телефон" data-aid="phoneField"><input type="text" id="field5" aria-invalid="false" name="Адрес" value="" class="cf1_hidden cf1_hiddenField" placeholder="Адрес" data-aid="addressField">
+                            <div><input type="text" id="field3" aria-invalid="false" name="Тема" value="" class="" placeholder="Тема" data-aid="subjectField"><input type="tel" id="field4" aria-invalid="false" name="Телефон" value="" class="cf1_hidden cf1_hiddenField" placeholder="Телефон" data-aid="phoneField"><input type="text" id="field5" aria-invalid="false" name="Адрес" value="" class="cf1_hidden cf1_hiddenField" placeholder="Адрес" data-aid="addressField">
                             </div>
-                            <textarea placeholder="Message" name="Сообщение" class="cf1fieldMessage" data-aid="messageField" id="comp-it43dhlqfieldMessage"></textarea>
-                            <div id="comp-it43dhlqsubmit1" style="cursor: pointer;font-size:  25px;font-weight:  bold;" class="cf1submit1">Send
+                            <textarea placeholder="Сообщение" name="Сообщение" class="cf1fieldMessage" data-aid="messageField" id="comp-it43dhlqfieldMessage"></textarea>
+                            <div id="comp-it43dhlqsubmit1" style="cursor: pointer;font-size:  25px;font-weight:  bold;" class="cf1submit1">Отправить
                             </div>
                         </div>
                     </form>
@@ -316,7 +277,7 @@ width: 50%;
     font-size: 20px;
     position: relative;
     bottom: 12px;
-" class="asdd">All rights reserved. ©Copyright 2018</p></div>
+" class="asdd">Все права защищены. ©Copyright 2018</p></div>
     <div style="
 display: inline-block;
 text-align: center;
@@ -376,7 +337,7 @@ margin: 0;
     letter-spacing: normal;
         font: normal normal normal 13px/1.4em 'open sans', sans-serif;
     color: #070A0E;
-">Subscribe to me in social networks</p></div>
+">Подпишитесь на меня в социальных сетях</p></div>
 
         </div>
 
@@ -702,6 +663,14 @@ margin: 0;
         display: none;
     }
 
+    #root header > div{
+        font-family: "Droid Sans Mono", monospace;
+        font-weight: lighter;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: white;
+        font-size: 2em;
+    }
 </style>
 
 
@@ -738,19 +707,11 @@ margin: 0;
             });
         </script>
 
-        <div class="asd" style="font-size:  34px;position: fixed;top: 50%;left: 50%;color:  green;margin: 0 0 0 -234px;display: none;">Your message has been sent</div>
+        <div class="asd" style="font-size:  34px;position: fixed;top: 50%;left: 50%;color:  green;margin: 0 0 0 -234px;display: none;">Ваше сообщение отправленно</div>
 
 
-        <?php if($_SERVER['HTTP_HOST'] == 'pro-advocate.pp.ua'){ ?>
-        <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="cc504252ca7d24e616b9bc4ae0319525" async="async"></script>
-        <?php } ?>
+        <?php if($_SERVER['HTTP_HOST'] == 'ukraine-advocate.pp.ua'){ ?>
 
-        <?php if($_SERVER['HTTP_HOST'] == 'advocate-of-ukraine.pp.ua'){ ?>
-        <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="e2b9e954d864d26643a884f6ca0eabfe" async="async"></script>
-        <?php } ?>
-
-        <?php if($_SERVER['HTTP_HOST'] == 'attorney-at-law-of-ukraine.pp.ua'){ ?>
-        <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="a64d4996ad0ea16b2452f1f050524d5b" async="async"></script>
         <?php } ?>
 
         <div id="root"></div>
