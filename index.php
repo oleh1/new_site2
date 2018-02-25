@@ -710,9 +710,7 @@ margin: 0;
         <div class="asd" style="font-size:  34px;position: fixed;top: 50%;left: 50%;color:  green;margin: 0 0 0 -234px;display: none;">Ваше сообщение отправленно</div>
 
 
-        <?php if($_SERVER['HTTP_HOST'] == 'ukraine-advocate.pp.ua'){ ?>
-
-        <?php } ?>
+        <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="27cb86e2b0d62a8306136dd81c6b34fa" async="async"></script>
 
         <div id="root"></div>
         <script src='react.min.js'></script>
