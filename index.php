@@ -674,6 +674,38 @@ margin: 0;
         color: white;
         font-size: 2em;
     }
+
+    @media screen and (max-width:727px) {
+
+        .flipClock{
+            width: 130px;
+        }
+        .flipUnitContainer {
+            width: 40px;
+            height: 40px;
+        }
+        .flipCard {
+            width: 40px;
+            height: 20px;
+        }
+        .flipCard span {
+            font-size: 29px;
+            font-weight: bolder;
+        }
+        .upperCard span, .lowerCard span {
+            font-size: 29px;
+            font-weight: bolder;
+        }
+        #root header > div{
+            font-size: 14px;
+            font-weight: bold;
+        }
+        #root{
+            top: 203px;
+            right: 5px;
+        }
+
+    }
 </style>
 
 
